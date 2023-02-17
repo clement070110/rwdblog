@@ -60,6 +60,7 @@ b:hover {
 
 
 .header {
+  data-aos:zoom-in;
   background-color: #333333;
   box-shadow: 0 0px 8px #474747;
   color: #ffffff;
@@ -81,6 +82,10 @@ linear-gradient(90deg, rgba(33,123,185,0) 100%, rgba(9,86,121,0) 100%),
 }
 .header a:hover {
   background-size: 0 3px, 100% 3px;
+}
+
+.first-row {
+  font-size:large;
 }
 
 .name {
